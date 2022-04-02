@@ -1,3 +1,3 @@
 # Theme-clock
 
-Click on the [link](https://themexclock.netlify.app/)
+To see this project [click here...](https://themexclock.netlify.app/)
